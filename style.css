@@ -482,6 +482,14 @@ span {
   line-height: 1.7;
   margin: auto;
 }
+
+.git {
+    display: flex;
+    justify-content:center; 
+    align-items: center; 
+    
+}
+
 .contact {
   background-color: var(--bg-color);
 }
